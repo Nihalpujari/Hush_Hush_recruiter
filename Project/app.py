@@ -11,7 +11,6 @@ pymysql.install_as_MySQLdb()
 
 app = Flask(__name__)
 
-
 app.config["SECRET_KEY"] = os.getenv("FLASK_SECRET_KEY", "secret123")
 
 DB_USER = os.getenv("DB_USER", "root")
@@ -259,3 +258,4 @@ with app.app_context():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
