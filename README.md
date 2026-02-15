@@ -5,9 +5,9 @@
 **Project Type:** Final Exam Project  
 
 **Team:**
-- Anuj Kamble
 - Namrata Bhoyar
 - Nihal Pujari
+- Anuj Kamble
 - Pramodkumar Shivanna
 
 ---
