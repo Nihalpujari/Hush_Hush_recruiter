@@ -105,15 +105,6 @@ Two models are combined:
 - **Random Forest** → estimates candidate strength
 - **Linear Regression** → measures cluster fit
 
-### Final Score
-Final Score = weighted(RF score + cluster-fit score)
-
-
-Score range:
-0 → weakest candidate
-1 → strongest candidate
-
-
 ---
 
 ## Hiring Manager Dashboard
@@ -130,7 +121,16 @@ The dashboard allows:
 
 ## How to Run
 
-### Install dependencies
-```bash
-pip install pandas numpy scikit-learn matplotlib
 
+```bash
+git clone https://github.com/Nihalpujari/Hush_Hush_recruiter.git
+```
+- Install dependencies
+- Open the folder in any code editor
+- Run the Database.sql code in MySQL workbench
+- Run app.py
+
+---
+
+Demo Vedio
+https://drive.google.com/file/d/1xPzCfSXlZTkjP7ccR3-6QzUMpmrRe_T-/view?usp=sharing
