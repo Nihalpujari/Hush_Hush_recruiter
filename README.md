@@ -133,39 +133,4 @@ The dashboard allows:
 ### Install dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib
-Run the project
-Open and run:
 
-Python final code.ipynb
-Completed Features
-Multi-platform data integration
-
-Candidate clustering
-
-Candidate scoring
-
-Role assignment
-
-Hiring manager dashboard
-
-Future Improvements
-Secret invitation system
-
-Coding challenge portal
-
-Time-limited links
-
-Automatic notifications
-
-Real hiring outcome labels
-
-Conclusion
-hushHush Recruiter demonstrates a scalable, automated approach to candidate selection by:
-
-Using public developer signals
-
-Applying clustering and machine learning scoring
-
-Assigning roles automatically
-
-Providing a hiring dashboard
