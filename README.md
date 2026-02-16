@@ -112,9 +112,6 @@ Two models are combined:
 The dashboard allows:
 
 - Viewing candidates
-- Checking platform signals
-- Seeing predicted role
-- Comparing final scores
 - Identifying top candidates per role
 
 ---
